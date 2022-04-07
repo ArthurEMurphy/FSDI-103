@@ -1,2 +1,2 @@
-# 2ndclassJS
-This is an example of a simple store for FSDI class
+# 3rdclassJS Cohort 28
+This is an example of a simple calculator for FSDI class
